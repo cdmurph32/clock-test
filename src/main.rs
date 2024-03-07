@@ -1,8 +1,8 @@
 pub(crate) mod bindings {
-    wit_bindgen::generate!(world: "interfaces");
+    wit_bindgen::generate!("interfaces");
 }
 
-use bindings::clocks;
+use bindings::wasi::clocks;
 
 fn main() {
     let datetime = clocks::wall_clock::now();
