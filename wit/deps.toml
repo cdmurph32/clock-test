@@ -1,1 +1,1 @@
-clocks= "https://github.com/WebAssembly/wasi-clocks/archive/main.tar.gz"
+clocks= "https://github.com/cdmurph32/wasi-clocks/archive/timezone_redux.tar.gz"

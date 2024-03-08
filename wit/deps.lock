@@ -1,7 +1,7 @@
 [clocks]
-url = "https://github.com/WebAssembly/wasi-clocks/archive/main.tar.gz"
-sha256 = "468b4d12892fe926b8eb5d398dbf579d566c93231fa44f415440572c695b7613"
-sha512 = "e6b53a07221f1413953c9797c68f08b815fdaebf66419bbc1ea3e8b7dece73731062693634731f311a03957b268cf9cc509c518bd15e513c318aa04a8459b93a"
+url = "https://github.com/cdmurph32/wasi-clocks/archive/timezone_redux.tar.gz"
+sha256 = "277909e340be29599fc1f6abbba79ab1fc30a82ad2bda8871ff9cb838f9a4ef4"
+sha512 = "3dbb128bef9a0f678d5a0d90c01d8d15fd9bd4ec7554e226771c1d3132ba36871792a83350522db37568f78bd26fc6bb4d2010d0ea9b51a9ba26b44c730e14e8"
 deps = ["io"]
 
 [io]
