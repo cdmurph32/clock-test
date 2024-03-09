@@ -2,4 +2,5 @@ package colmurph:clock-test@0.1.0;
 
 world interfaces {
     import wasi:clocks/wall-clock@0.2.1;
+    import wasi:clocks/timezone@0.2.1;
 }
